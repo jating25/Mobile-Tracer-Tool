@@ -1,0 +1,10 @@
+phonenumbers>=8.13.0
+requests>=2.31.0
+folium>=0.15.0
+PyQt5>=5.15.10
+PyQtWebEngine>=5.15.6
+
+
+ Install All Requirements with:
+'''
+pip install -r requirements.txt
